@@ -7,19 +7,19 @@ NiniMenu 是一个前后端分离的全栈 Web 应用，旨在帮助用户轻松
 ## 应用截图
 
 <p align="center">
-  <img src="img/home.png" width="24%" alt="首页" />
-  <img src="img/dishes.png" width="24%" alt="菜品列表" />
-  <img src="img/favorites.png" width="24%" alt="收藏" />
-  <img src="img/tomorrow.png" width="24%" alt="明天吃什么" />
+  <a href="img/home.png"><img src="img/home.png" width="24%" height="360" style="object-fit:cover;" alt="首页" /></a>
+  <a href="img/dishes.png"><img src="img/dishes.png" width="24%" height="360" style="object-fit:cover;" alt="菜品列表" /></a>
+  <a href="img/favorites.png"><img src="img/favorites.png" width="24%" height="360" style="object-fit:cover;" alt="收藏" /></a>
+  <a href="img/tomorrow.png"><img src="img/tomorrow.png" width="24%" height="360" style="object-fit:cover;" alt="明天吃什么" /></a>
 </p>
 <p align="center">
-  <img src="img/history.png" width="24%" alt="历史记录" />
-  <img src="img/achievements.png" width="24%" alt="成就" />
-  <img src="img/photo-wall.png" width="24%" alt="照片墙" />
-  <img src="img/more.png" width="24%" alt="更多" />
+  <a href="img/history.png"><img src="img/history.png" width="24%" height="360" style="object-fit:cover;" alt="历史记录" /></a>
+  <a href="img/achievements.png"><img src="img/achievements.png" width="24%" height="360" style="object-fit:cover;" alt="成就" /></a>
+  <a href="img/photo-wall.png"><img src="img/photo-wall.png" width="24%" height="360" style="object-fit:cover;" alt="照片墙" /></a>
+  <a href="img/more.png"><img src="img/more.png" width="24%" height="360" style="object-fit:cover;" alt="更多" /></a>
 </p>
 <p align="center">
-  <img src="img/admin.png" width="48%" alt="管理后台" />
+  <a href="img/admin.png"><img src="img/admin.png" width="48%" height="360" style="object-fit:cover;" alt="管理后台" /></a>
 </p>
 
 - **[使用说明](README_USER.md)** — 如何部署和使用 NiniMenu

@@ -143,7 +143,7 @@ function recordToDish(record: MealRecord): Dish {
   return {
     id: record.dish_id,
     name: record.dish_name,
-    image_url: "",
+    image_url: record.dish_image_url || "",
     video_url: "",
     images: [],
     category: "",
