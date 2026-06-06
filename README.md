@@ -26,6 +26,10 @@ NiniMenu 是一个前后端分离的全栈 Web 应用，旨在帮助用户轻松
 - **[开发指南](README_DEV.md)** — 如何参与开发和构建
 - **[更新日志](CHANGELOG.md)** — 版本更新记录
 
+## 相关链接
+
+* [Linux Do 社区](https://linux.do/)  
+
 ## 未来目标
 
 ### 功能完善
